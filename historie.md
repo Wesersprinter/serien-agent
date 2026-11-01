@@ -36,3 +36,5 @@
 | 2026-11-01 | MobLand, Staffel 3 | Ausblick | bestätigt, kein Termin |
 | 2026-11-01 | Gomorrha – Wie alles begann | Überraschung | vorgeschlagen, Termin unbestätigt |
 | 2026-11-01 | Nemesis (Netflix) | Vormerker | kein Termin |
+| 2026-11-01 | Foundation, Staffel 4 | Nachtrag | bestätigt, Start vermutlich 2027 (kein offizieller Termin) |
+| 2026-11-01 | Vienna Game | Nachtrag | knapp durchgefallen, nicht aufgenommen |
