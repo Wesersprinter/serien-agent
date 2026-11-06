@@ -34,7 +34,11 @@
 | 2026-11-01 | Neagley (Spin-off) | Nachgeholt | läuft seit 16.09. |
 | 2026-11-01 | The Witcher, Staffel 5 | Ausblick | auf 2027 verschoben |
 | 2026-11-01 | MobLand, Staffel 3 | Ausblick | bestätigt, kein Termin |
-| 2026-11-01 | Gomorrha – Wie alles begann | Überraschung | vorgeschlagen, Termin unbestätigt |
+| 2026-11-01 | Gomorrha – Wie alles begann | Überraschung | korrigiert 2026-11-06: läuft seit 14.05. bei HBO Max, nicht Apple TV+ (hast du nicht) |
 | 2026-11-01 | Nemesis (Netflix) | Vormerker | kein Termin |
 | 2026-11-01 | Foundation, Staffel 4 | Nachtrag | bestätigt, Start vermutlich 2027 (kein offizieller Termin) |
 | 2026-11-01 | Vienna Game | Nachtrag | knapp durchgefallen, nicht aufgenommen |
+| 2026-11-06 | MobLand, Staffel 2 | Neue Staffeln | läuft seit 18.09., Finale 20.11. (Paramount+) |
+| 2026-11-06 | Wednesday, Staffel 3 | Neue Staffeln | abgedreht, kein Termin, vermutlich 2027 |
+| 2026-11-06 | Stick, Staffel 2 | Passt zu dir | knapp durchgefallen (Comedy-Drama), nicht aufgenommen |
+| 2026-11-06 | Vienna Game | Nachtrag | weiter aussortiert, Termin/Plattform widersprüchlich |
