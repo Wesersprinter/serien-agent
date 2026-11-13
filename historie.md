@@ -42,3 +42,11 @@
 | 2026-11-06 | Wednesday, Staffel 3 | Neue Staffeln | abgedreht, kein Termin, vermutlich 2027 |
 | 2026-11-06 | Stick, Staffel 2 | Passt zu dir | knapp durchgefallen (Comedy-Drama), nicht aufgenommen |
 | 2026-11-06 | Vienna Game | Nachtrag | weiter aussortiert, Termin/Plattform widersprüchlich |
+| 2026-11-13 | Die Ringe der Macht, Staffel 3 | Passt zu dir | läuft seit 11.11. (Prime Video), 8 Folgen in Blöcken |
+| 2026-11-13 | The Pendragon Cycle | Passt zu dir | Start 12.11. (Paramount+) bestätigt |
+| 2026-11-13 | Blade Runner 2099 | Passt zu dir | Termin 25.11. (Filmdienst nennt 18.11.) |
+| 2026-11-13 | Black Doves, Staffel 2 | Passt zu dir | läuft seit 5.11. (Netflix), gute Kritiken |
+| 2026-11-13 | Tulsa King, Staffel 4 | Neue Staffeln | Finale vermutlich ~18.12., S5 bestätigt, kein Termin |
+| 2026-11-13 | House of the Dragon, Staffel 3 | Nachgeholt | lief 22.06.–Aug., auch HBO Max (hast du nicht) |
+| 2026-11-13 | 12 12 12 | Überraschung | Start 13.11., wöchentlich bis 25.12. |
+| 2026-11-13 | The Undeclared War | Überraschung | Paramount+, November |
