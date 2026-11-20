@@ -50,3 +50,8 @@
 | 2026-11-13 | House of the Dragon, Staffel 3 | Nachgeholt | lief 22.06.–Aug., auch HBO Max (hast du nicht) |
 | 2026-11-13 | 12 12 12 | Überraschung | Start 13.11., wöchentlich bis 25.12. |
 | 2026-11-13 | The Undeclared War | Überraschung | Paramount+, November |
+| 2026-11-20 | Trinity | Passt zu dir | vorgeschlagen, Netflix, Start 1.12. |
+| 2026-11-20 | Blade Runner 2099 | Passt zu dir | Termin 25.11. bestätigt (Amazon), 18.11. überholt |
+| 2026-11-20 | Die Ringe der Macht, Staffel 3 | Neue Staffeln | läuft, Blöcke |
+| 2026-11-20 | The Devil's Hour, Staffel 3 | Überraschung | unsicher, Start 4.12.? nur eine Quelle |
+| 2026-11-20 | Percy Jackson, Staffel 3 | Info | Start 20.11. (Disney+) |
